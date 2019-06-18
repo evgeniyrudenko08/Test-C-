@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2017-11-24 11:22:47Z" end-time="2017-11-24 11:22:56Z" duration="9.285383">
+  <command-line><![CDATA["D:\DotNet\Console\nunit3-console.exe" CSharpCore.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="CSharpCore.dll" fullname="D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-11-24 11:22:48Z" end-time="2017-11-24 11:22:56Z" duration="8.665557" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.9.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug" machine-name="WS376" user="alexey.vovk" user-domain="SU" culture="uk-UA" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="15340" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="CSharpCore" fullname="CSharpCore" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-11-24 11:22:48Z" end-time="2017-11-24 11:22:56Z" duration="8.648239" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestSuite" id="0-1004" name="Features" fullname="CSharpCore.Features" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-11-24 11:22:48Z" end-time="2017-11-24 11:22:56Z" duration="8.647518" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-suite type="TestFixture" id="0-1000" name="TestUiFeature" fullname="CSharpCore.Features.TestUiFeature" classname="CSharpCore.Features.TestUiFeature" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-11-24 11:22:48Z" end-time="2017-11-24 11:22:56Z" duration="8.643759" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+          <properties>
+            <property name="Category" value="web" />
+            <property name="Description" value="Test Ui" />
+          </properties>
+          <output><![CDATA[-> Using app.config
+System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a send. ---> System.IO.IOException: The handshake failed due to an unexpected packet format.
+   at System.Net.Security.SslState.StartReadFrame(Byte[] buffer, Int32 readBytes, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   at System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at RestSharp.Http.WriteRequestBody(HttpWebRequest webRequest)
+   at RestSharp.Http.PostPutInternal(String method)
+   at RestSharp.RestClient.Execute(IRestRequest request, String httpMethod, Func`3 getResponse)
+]]></output>
+          <test-case id="0-1001" name="UITestPass" fullname="CSharpCore.Features.TestUiFeature.UITestPass" methodname="UITestPass" classname="CSharpCore.Features.TestUiFeature" runstate="Runnable" seed="971446225" result="Passed" start-time="2017-11-24 11:22:49Z" end-time="2017-11-24 11:22:56Z" duration="6.983392" asserts="1">
+            <properties>
+              <property name="Description" value="UI Test Pass" />
+            </properties>
+            <output><![CDATA[Scenario screenshot is available: D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\TestResults\2017-11-24 13_22_49/1_UI Test Pass_passed.png
+]]></output>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

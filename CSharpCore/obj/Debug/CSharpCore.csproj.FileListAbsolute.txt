@@ -1,0 +1,399 @@
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\chromedriver.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\StyleCop.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\WebDriver.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\WebDriver.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore\CSharpCore\bin\Debug\CSharpCore.dll.CodeAnalysisLog.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\ReportPortal.conf
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\chromedriver.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\Gherkin.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\log4net.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\Mono.Cecil.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit-agent-x86.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit-agent.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit.engine.api.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit.engine.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\ReportPortal.Client.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\ReportPortal.NUnitExtension.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\RestSharp.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\StyleCop.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\WebDriver.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\log4net.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\RestSharp.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\WebDriver.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore - RP\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.conf
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\chromedriver.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\log4net.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit-agent-x86.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit-agent.exe
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.api.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Client.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.NUnitExtension.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\log4net.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Projects\R_D\CSharpCore\CSharpSpecFlowCore\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\NUnit3.TestAdapter.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.api.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll.config
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\chromedriver.exe
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Gherkin.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\log4net.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Client.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\log4net.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Projects\R_D\ReportPortal\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csprojResolveAssemblyReference.cache
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\NUnit3.TestAdapter.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.api.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll.config
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\chromedriver.exe
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Gherkin.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\log4net.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Client.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\log4net.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\Automation-testing\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csprojAssemblyReference.cache
+D:\Automation-testing\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+D:\Automation-testing\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csproj.CopyComplete
+D:\Automation-testing\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Automation-testing\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Automation-testing\CSharpCore_RP\CSharpCore\bin\Debug\ru\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\NUnit3.TestAdapter.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\nunit.engine.api.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Pdb.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Mdb.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Mono.Cecil.Rocks.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll.config
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\chromedriver.exe
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll.config
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\CSharpCore.pdb
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Gherkin.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\log4net.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Client.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\StyleCop.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\log4net.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\nunit.framework.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\RestSharp.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\WebDriver.Support.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\bin\Debug\ru\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csprojAssemblyReference.cache
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.csproj.CopyComplete
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.dll
+C:\SUMMARUM\CSharpCore_RP\CSharpCore\obj\Debug\CSharpCore.pdb
+C:\SUMMARUM\BDD project\CSharpCore\obj\Debug\CSharpCore.csprojAssemblyReference.cache
+C:\SUMMARUM\BDD project\CSharpCore\obj\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+C:\SUMMARUM\BDD project\CSharpCore\obj\Debug\CSharpCore.dll
+C:\SUMMARUM\BDD project\CSharpCore\obj\Debug\CSharpCore.pdb
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\NUnit3.TestAdapter.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\nunit.engine.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\nunit.engine.api.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Mono.Cecil.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Pdb.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Mdb.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Rocks.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll.config
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\chromedriver.exe
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\CSharpCore.dll.config
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\CSharpCore.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\CSharpCore.pdb
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Gherkin.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\log4net.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\nunit.framework.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\ReportPortal.Client.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\RestSharp.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\StyleCop.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\WebDriver.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\WebDriver.Support.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\log4net.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\nunit.framework.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\RestSharp.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\WebDriver.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\WebDriver.Support.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+C:\SUMMARUM\BDD project\CSharpCore\bin\Debug\ru\Microsoft.Build.Utilities.v3.5.resources.dll
+C:\SUMMARUM\BDD project\CSharpCore\obj\Debug\CSharpCore.csproj.CopyComplete
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\obj\Debug\CSharpCore.csprojAssemblyReference.cache
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\obj\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\obj\Debug\CSharpCore.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\obj\Debug\CSharpCore.pdb
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\NUnit3.TestAdapter.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\nunit.engine.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\nunit.engine.api.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Mono.Cecil.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Mono.Cecil.Rocks.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll.config
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\chromedriver.exe
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\CSharpCore.dll.config
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\CSharpCore.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\CSharpCore.pdb
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Allure.Commons.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Allure.SpecFlowPlugin.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\AllureCSharpCommons.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\CsvHelper.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Gherkin.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\log4net.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\MimeTypesMap.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\nunit.framework.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\ReportPortal.Client.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\ReportPortal.Shared.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\ReportPortal.SpecFlowPlugin.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\RestSharp.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\StyleCop.CSharp.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\StyleCop.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ValueTuple.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Generator.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Parser.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\TechTalk.SpecFlow.Utils.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\WebDriver.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\WebDriver.Support.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\CsvHelper.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\log4net.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\nunit.framework.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\RestSharp.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\WebDriver.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\WebDriver.Support.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\ru\Microsoft.Build.Utilities.v3.5.resources.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\obj\Debug\CSharpCore.csproj.CopyComplete
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\allureConfig.json
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\nunit.framework.pdb
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\netstandard.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.AppContext.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Collections.Concurrent.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Collections.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Collections.NonGeneric.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Collections.Specialized.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ComponentModel.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Console.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Data.Common.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.Debug.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.Process.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.Tools.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Drawing.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Dynamic.Runtime.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Globalization.Calendars.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Globalization.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Globalization.Extensions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.Compression.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.FileSystem.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.Pipes.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Linq.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Linq.Expressions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Linq.Parallel.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Linq.Queryable.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Http.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.NameResolution.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.NetworkInformation.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Ping.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Requests.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Security.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.Sockets.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Net.WebSockets.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.ObjectModel.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Reflection.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Reflection.Extensions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Reflection.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Resources.Reader.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Resources.ResourceManager.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Resources.Writer.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Extensions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Handles.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.InteropServices.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Numerics.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Claims.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.Principal.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Security.SecureString.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Text.Encoding.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Text.RegularExpressions.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.Overlapped.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.Tasks.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.Thread.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.ThreadPool.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Threading.Timer.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.XDocument.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.XmlDocument.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.XPath.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\RestAssured.dll
+D:\Automation-testing\MyChanges\BDD project\CSharpCore\bin\Debug\Newtonsoft.Json.Schema.xml

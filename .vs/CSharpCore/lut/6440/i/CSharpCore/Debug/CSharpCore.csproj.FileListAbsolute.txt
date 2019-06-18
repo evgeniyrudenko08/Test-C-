@@ -1,0 +1,14 @@
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\NUnit3.TestAdapter.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\nunit.engine.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\nunit.engine.api.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\Mono.Cecil.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\Mono.Cecil.Pdb.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\Mono.Cecil.Mdb.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\Mono.Cecil.Rocks.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\ReportPortal.SpecFlowPlugin.dll.config
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\chromedriver.exe
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\CSharpCore.dll.config
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\b\CSharpCore.dll
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\i\CSharpCore\Debug\CSharpCore.csproj.CoreCompileInputs.cache
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\i\CSharpCore\Debug\CSharpCore.csproj.CopyComplete
+C:\SUMMARUM\CSharpCore_RP\.vs\CSharpCore\lut\0\i\CSharpCore\Debug\CSharpCore.dll
