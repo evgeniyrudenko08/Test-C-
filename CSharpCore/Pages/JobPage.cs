@@ -9,5 +9,10 @@
         public IWebElement Search { get; set; }
         [FindsBy(How = How.PartialLinkText, Using = @"Киев")]
         public IWebElement CityButton { get; set; }
+        [FindsBy(How = How.PartialLinkText, Using = @"Харьков")]
+        public IWebElement CityKharkovButton { get; set; }
+
+        [FindsBy(How = How.PartialLinkText, Using = @"Днепр")]
+        public IWebElement CityDneprButton { get; set; }
     }
 }
