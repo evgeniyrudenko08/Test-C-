@@ -38,7 +38,7 @@
                     string screenshotFilePath = System.IO.Path.Combine(artifactDirectory, screenshotFileName);
                     var screenshot = takesScreenshot.GetScreenshot();
                     screenshot.SaveAsFile(screenshotFilePath, ImageFormat.Png);
-                    Console.WriteLine("Screenshot: {0}", new Uri(screenshotFilePath)); 1122
+                    Console.WriteLine("Screenshot: {0}", new Uri(screenshotFilePath));
                 }
             }
         }      
