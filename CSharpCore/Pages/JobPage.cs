@@ -14,5 +14,8 @@
 
         [FindsBy(How = How.PartialLinkText, Using = @"Днепр")]
         public IWebElement CityDneprButton { get; set; }
+
+        [FindsBy(How = How.PartialLinkText, Using = @"Чернигов")]
+        public IWebElement CityChernigovButton { get; set; }
     }
 }
